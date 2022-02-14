@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestWorkDoubletapp</string>
+    <string name="button__text_second_activity">Второе активити</string>
+    <string name="text_welcome_second_activity">Это активити показвает количество смен конфиграции в квадрате</string>
+    <string name="text_result_second_activity">Результат</string>
+    <string name="button_text_back">Назад</string>
+</resources>
